@@ -8,7 +8,7 @@ Type
 
 in the MATLAB prompt and press enter. 
 
-To see how the software can be used, try on of the test m-files:
+To see how the software can be used, try one of the test m-files:
 
 TestHotAirBalloon -- 3-banded multi-spec imagery, 200,000+ pixels
 TestNyack  -- 4-banded multi-spec imagery, 2,000,000+ pixels
